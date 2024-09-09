@@ -52,3 +52,12 @@ If you'd like me to come work on one of your projects, you can reach me on:
 - Refactored legacy code to remove code smells and enhance maintainability 💪.
 - Achieved 100% test coverage using RSpec, ensuring high code quality and reliability ✅.
 - Created a dynamic form builder that adapts to user input and requirements, streamlining form creation and management 🔧.
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadullahwaheed22&show_icons=true&locale=en&layout=compact" alt="asadullahwaheed22" style="background-color: #f0f0f0; width: 350px; height: auto;" />
+</p>
+
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahwaheed22&" alt="asadullahwaheed22" style="background-color: #f0f0f0;" />
+</p>
+
