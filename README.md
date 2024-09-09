@@ -54,10 +54,11 @@ If you'd like me to come work on one of your projects, you can reach me on:
 - Created a dynamic form builder that adapts to user input and requirements, streamlining form creation and management 🔧.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadullahwaheed22&show_icons=true&locale=en&layout=compact" alt="asadullahwaheed22" style="background-color: #f0f0f0; width: 360px; height: auto;" />
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadullahwaheed22&show_icons=true&locale=en&layout=compact&theme=transparent" alt="asadullahwaheed22" style="width: 360px; height: auto; padding: 5px;" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahwaheed22&" alt="asadullahwaheed22" style="background-color: #f0f0f0;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahwaheed22&theme=transparent" alt="asadullahwaheed22" padding: 5px;" />
 </p>
 
