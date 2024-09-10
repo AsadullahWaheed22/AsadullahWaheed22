@@ -35,7 +35,7 @@ Let's connect and build something amazing together! 💡
 I am currently working as a Full Stack Software Developer at [Maple HR](https://maplehr.io/).
 
 <img align='right' src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e47yvmdb2do7n27eaitsqafb62bkzsidma6evltkedr&rid=giphy.gif" width="230" style="margin-left: 10px; margin-bottom: 10px;">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 ## I'm interested in job offers! 🏢 🏃‍♂️💨
 
@@ -59,6 +59,6 @@ If you'd like me to come work on one of your projects, you can reach me on:
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahwaheed22&theme=transparent" alt="asadullahwaheed22" padding: 5px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahwaheed22&theme=transparent" alt="asadullahwaheed22" padding: 0px;" />
 </p>
 
