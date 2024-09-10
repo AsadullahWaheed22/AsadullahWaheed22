@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Asadullah Waheed!
 
 ## 🚀 About Me
-🚀 Passionate ***Ruby on Rails Developer*** transforming ideas into powerful web applications! Skilled in building scalable, robust solutions with Rails and enhancing user experience with React. I’m a problem solver, focused on writing clean, maintainable code.
+Passionate ***Ruby on Rails Developer*** transforming ideas into powerful web applications! Skilled in building scalable, robust solutions with Rails and enhancing user experience with React. I’m a problem solver, focused on writing clean, maintainable code.
 
-✨ I thrive on building RESTful APIs, designing dynamic web interfaces, and applying agile methodologies. My toolkit also includes TDD with RSpec, ensuring every feature is bug-free and efficient. 
+I thrive on building RESTful APIs, designing dynamic web interfaces, and applying agile methodologies. My toolkit also includes TDD with RSpec, ensuring every feature is bug-free and efficient. 
 Let's connect and build something amazing together! 💡
 
 ---
